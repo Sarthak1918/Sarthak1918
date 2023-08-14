@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an E-commerce website<br>🌱 I’m currently learning MERN stack<br>
+🔭 I’m currently learning MERN stack<br>
 
 
 ## 🌐 Socials:

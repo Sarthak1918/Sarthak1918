@@ -2,7 +2,7 @@
 
 🔭 A Full Stack Developer with 2+ years of Experience in multiple domains such as EdTech,WealthTech, Ecommerce and Fitness Platforms
 
-🌱 Learning Agentic AI, LangChain, LangGraph, and advanced Python
+🌱 Exploring Agentic AI | Learning by building with LangChain, LangGraph & Python.
 
 💻 Building full-stack applications using Javascript, Python, React/Angular, and modern web technologies
 
